@@ -38,4 +38,4 @@ If you wish to access this repository, you must have a computer that runs either
 This web app was done by Senior Developer Dominic Juma
 
 ## License
-LSC
+It is licensed by MIT
