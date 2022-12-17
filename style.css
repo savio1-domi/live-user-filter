@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: #F8F9FD;
+	background-color: darkblue;
 	font-family: 'Muli', sans-serif;
 	display: flex;
 	align-items: center;
@@ -89,7 +89,7 @@ body {
 	font-size: 12px;
 }
 
-/* SOCIAL PANEL CSS */
+/* SOCIAL PANEL */
 .social-panel-container {
 	position: fixed;
 	right: 0;
@@ -171,6 +171,7 @@ body {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
+    
 }
 
 .social-panel ul li {
