@@ -1,9 +1,32 @@
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 * {
 	box-sizing: border-box;
 }
-
+.hide{
+    display: none;
+}
+.login-section h1, #loginBtn, h5{
+    color: white;
+}
+.login-section h1{
+    font-family: sans-serif;
+}
+.login-section #loginForm input{
+    padding: 4px 6px;
+    outline: none;
+    border-radius: 8px;
+}
+.login-section #loginBtn{
+    background: transparent;
+    outline: none;
+    border: 1px solid white;
+    cursor: pointer;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+.login-section #loginBtn:hover{
+    filter: brightness(0.6);
+}
 body {
 	background-color: darkblue;
 	font-family: 'Muli', sans-serif;
@@ -241,7 +264,7 @@ body {
 }
 
 @media screen and (max-width: 480px) {
-
+	
 	.social-panel-container.visible {
 		transform: translateX(0px);
 	}
