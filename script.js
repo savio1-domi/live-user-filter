@@ -1,19 +1,18 @@
 window.addEventListener('DOMContentLoaded', ()=>{
-    // SOCIAL PANEL 
-    const floating_btn = document.querySelector('.floating-btn')
-    const close_btn = document.querySelector('.close-btn')
+
+	const floating_btn = document.querySelector('.floating-btn')
+ 	const close_btn = document.querySelector('.close-btn')
     const social_panel_container = document.querySelector('.social-panel-container')
-​
+
     floating_btn.addEventListener('click', () => {
         social_panel_container.classList.toggle('visible')
     })
-​
+
     close_btn.addEventListener('click', () => {
         social_panel_container.classList.remove('visible')
     })
-​
-​
-    // Login Form
+	
+   // login box
     const loginSection = document.querySelector('.login-section')
     const loginForm = document.getElementById('loginForm')
     loginForm.addEventListener('submit', (e)=>{
@@ -74,3 +73,5 @@ window.addEventListener('DOMContentLoaded', ()=>{
         })
     }
 })
+ 
+	

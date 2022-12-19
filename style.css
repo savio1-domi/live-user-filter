@@ -2,6 +2,17 @@
 * {
 	box-sizing: border-box;
 }
+
+body {
+	background-color: darkblue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 0;
+}
+
+ /* styling login box*/
 .hide{
     display: none;
 }
@@ -27,16 +38,8 @@
 .login-section #loginBtn:hover{
     filter: brightness(0.6);
 }
-body {
-	background-color: darkblue;
-	font-family: 'Muli', sans-serif;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	min-height: 100vh;
-	margin: 0;
-}
 
+/* styling the filter box */
 .container {
 	border-radius: 5px;
 	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
@@ -112,7 +115,12 @@ body {
 	font-size: 12px;
 }
 
-/* SOCIAL PANEL */
+footer {
+	color: #eee;
+}
+
+
+/*  styling social platform */
 .social-panel-container {
 	position: fixed;
 	right: 0;
