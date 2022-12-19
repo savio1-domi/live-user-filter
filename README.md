@@ -1,5 +1,5 @@
 # PROJECT
-Live user filter
+Live user filter.
 
 # Live User Filter
 The web app can add an element of fun that makes your broadcast memorable.Its an engaging tool and perhaps one of the most critical component of your marketing toolkit.
