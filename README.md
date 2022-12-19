@@ -35,7 +35,7 @@ If you wish to access this repository, you must have a computer that runs either
         code .
       
 ## Author
-This web app was done by Senior Developer Dominic Juma
+This web app was done by Senior Developer Dominic Juma.
 
 ## License
-It is licensed by MIT
+It is licensed by MIT.
