@@ -5,7 +5,7 @@ Live user filter
 The web app can add an element of fun that makes your broadcast memorable.Its an engaging tool and perhaps one of the most critical component of your marketing toolkit.
 
 ## Description
-Just like twitter,facebook, instagram and many more. The web page I've created works similarly the same. It was technical but you can view the repo to confirm how my new app introduce to this generation. 
+Just like twitter,facebook, instagram and many more. The web page I've created works similarly the same. It was technical but you can view the repo to confirm how my new app work. 
 
 ## Built With
 This application was built with the folliwing technologies
