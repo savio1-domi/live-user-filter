@@ -18,10 +18,10 @@ This application was built with the folliwing technologies
 
 
 ## Getting started
-If you wish to access this repository, you must have a computer that runs either Windows 7+, Linux or Mac Os. To get started, you need to do the fowolling
+If you wish to access this repository, you must have a computer that runs either Windows 7+, Linux or Mac Os. To get started, you need to do the fowolling.
 
 ### Installation
--Fork the repo
+-Fork the repo.
 
 -Open your terminal/CLI then clone the repo using the link you would have forked and copied.Ensure its on the directory you can easily navigate to.
 
