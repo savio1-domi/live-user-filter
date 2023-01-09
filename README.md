@@ -33,6 +33,12 @@ If you wish to access this repository, you must have a computer that runs either
 -To open on Visual Studio Code by typing the comand shown below in your terminal:
 
         code .
+        
+## Use the url below to view in the browser
+    
+    
+       https://savio1-domi.github.io/live-user-filter/
+        
       
 ## Author
 This web app was done by Senior Developer Dominic Juma.
